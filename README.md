@@ -1,1 +1,1 @@
-# My-Persik
+# My PERSIK [MC Plugin]
