@@ -1,2 +1,2 @@
 # My PERSIK [MC Plugin]
-# Version: 1.0-SNAPSHOT
+Version: 1.0-SNAPSHOT
